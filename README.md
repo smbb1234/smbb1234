@@ -7,8 +7,8 @@ English | [简体中文](https://github.com/smbb1234/smbb1234/edit/main/README-c
   - **Framework**: PyTorch, React, Git
 
 - 🌐 **Contact**
-  - **GitHub**: ![GitHub](https://github.com/smbb1234)
-  - **LinkedIn**: ![LinkedIn](https://www.linkedin.com/in/beile-jia-704414171/)
+  - **GitHub**: [![GitHub]()](https://github.com/smbb1234)
+  - **LinkedIn**: [![LinkedIn]()](https://www.linkedin.com/in/beile-jia-704414171/)
  
 **Thank you for your visiting！Looking forward to hear you！** 🎉
 <!--
