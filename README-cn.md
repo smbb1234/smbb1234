@@ -7,8 +7,9 @@
   - **工具/框架**: PyTorch, React, Git
 
 - 🌐 **联系方式**
-  - **GitHub**: [![GitHub](https://img.icons8.com/?size=100&id=62856&format=png&color=000000)](https://github.com/smbb1234)
-  - **LinkedIn**: [![LinkedIn](https://img.icons8.com/?size=100&id=13930&format=png&color=000000)](https://www.linkedin.com/in/beile-jia-704414171/?locale=en_US)
+[![GitHub](https://img.icons8.com/?size=100&id=62856&format=png&color=000000)](https://github.com/smbb1234)
+
+[![LinkedIn](https://img.icons8.com/?size=100&id=13930&format=png&color=000000)](https://www.linkedin.com/in/beile-jia-704414171/?locale=en_US)
  
 **感谢你的来访！期待与您合作！** 🎉
 
