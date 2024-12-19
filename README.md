@@ -8,9 +8,9 @@ English | [简体中文](https://github.com/smbb1234/smbb1234/edit/main/README-c
 
 - 🌐 **Contact**
 
-[![GitHub](https://img.icons8.com/?size=100&id=62856&format=png&color=000000)](https://github.com/smbb1234)
+[![GitHub](https://img.icons8.com/?size=50&id=62856&format=png&color=000000)](https://github.com/smbb1234)
 
-[![LinkedIn](https://img.icons8.com/?size=100&id=13930&format=png&color=000000)](https://www.linkedin.com/in/beile-jia-704414171/?locale=en_US)
+[![LinkedIn](https://img.icons8.com/?size=50&id=13930&format=png&color=000000)](https://www.linkedin.com/in/beile-jia-704414171/?locale=en_US)
  
 **Thank you for your visiting！Looking forward to hear you！** 🎉
 <!--
