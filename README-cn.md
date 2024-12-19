@@ -1,6 +1,6 @@
 简体中文 | [English](https://github.com/smbb1234/smbb1234/edit/main/README.md)
 
-## 👋 你好！我是 Steve
+## 你好！我是 Steve 👋
 
 - 🛠️ **技术栈**
   - **编程语言**: Python, JavaScript, C#
